@@ -1,0 +1,30 @@
+body{
+margin:0;
+font-family:Arial, Helvetica, sans-serif;
+background:#0a1f44;
+color:white;
+}
+
+.container{
+display:flex;
+flex-direction:column;
+align-items:center;
+justify-content:center;
+height:100vh;
+text-align:center;
+}
+
+.title{
+font-size:48px;
+font-weight:bold;
+}
+
+.button{
+background:#1c3faa;
+border:none;
+padding:14px 30px;
+font-size:18px;
+color:white;
+border-radius:8px;
+cursor:pointer;
+}
